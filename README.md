@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Dilys Muniz*
 ##  About Me
-_A little about me is that although I am creative and adventurous. I always bite off more than I can handle. I always get the job done close to the original goal. I also am trying to branch into more technology based hand on, but I always second guess my steps, and need to grow more confident in what I am doing._
+_A little about me is I love my fur babies. Another is that although I am creative and adventurous. I always bite off more than I can handle. I always get the job done close to the original goal. I also am trying to branch into more technology based hand on, but I always second guess my steps, and need to grow more confident in what I am doing._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
